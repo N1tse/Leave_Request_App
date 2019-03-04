@@ -1,0 +1,4 @@
+com\connection\Database.class
+com\controllers\HomeController.class
+com\candidjava\spring\configuration\SpringWebIntializer.class
+com\candidjava\spring\configuration\SpringConfiguration.class
